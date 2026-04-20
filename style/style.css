@@ -3,12 +3,13 @@ body {
   background-color: #f5eace;
   font-family: Copperplate, Papyrus, fantasy;
   text-align: center;
-}
-h1 {
-  color: #d1574a;
-  font-weight: bolder;
-  margin-top: 1em;
-  font-size: 3em;
+
+  h1 {
+    color: #d1574a;
+    font-weight: bolder;
+    margin-top: 1em;
+    font-size: 3em;
+  }
 }
 button {
   color: white;
